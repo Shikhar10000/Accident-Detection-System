@@ -29,7 +29,10 @@ pip install patool
 2.Navigate to directory 
 
 
-3.Python Object_detection_webcam.py
+3.python download.py
+
+
+4.python Object_detection_webcam.py
 
 
 ## For webcam Video(Will run for the 'test.mov' file):-
@@ -39,5 +42,8 @@ pip install patool
 2.Navigate to directory 
 
 
-3.Python Object_detection_video.py
+3.python download.py
+
+
+4.python Object_detection_video.py
 
