@@ -4,8 +4,10 @@ cv2
 
 numpy 
 
-
 tensorflow 
+
+patool
+
 
 # Packages install commands:-
 pip install opencv-python
@@ -17,6 +19,7 @@ pip install numpy
 pip install tensorflow
 
 
+pip install patool
 
 # Instructions to Run:-
 ## For webcam Interface:-
